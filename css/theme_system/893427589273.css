@@ -1,0 +1,118 @@
+@charset "UTF-8"; /*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-acf037fc] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-acf037fc] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-acf037fc] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-acf037fc] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-acf037fc] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-acf037fc] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-acf037fc] {
+    color: #28c322
+}
+
+.has-text-red[data-v-acf037fc] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-acf037fc] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-acf037fc] {
+    background-color: #29343d
+}
+
+.modal-card[data-v-acf037fc] {
+    width: 26.5rem
+}
+
+.modal-card .modal-card-head[data-v-acf037fc] {
+    border-bottom: 1px solid #edf0f2!important;
+    padding-top: 1.25rem
+}
+
+.modal-card .modal-card-head .close[data-v-acf037fc] {
+    border-radius: .375rem;
+    height: 2rem;
+    width: 2rem
+}
+
+.modal-card .modal-card-body[data-v-acf037fc] {
+    padding: 1.5rem
+}
+
+.modal-card .modal-card-body[data-v-acf037fc] .v-md-editor {
+    border: 1px solid #edf0f2;
+    border-radius: .375rem;
+    box-shadow: none;
+    max-height: 20.25rem;
+    min-height: 5.25rem;
+    overflow: hidden;
+    resize: vertical
+}
+
+.modal-card .modal-card-body[data-v-acf037fc] .v-md-editor.v-md-editor--edit {
+    border: 0
+}
+
+.modal-card .modal-card-body[data-v-acf037fc] .v-md-editor.v-md-editor--edit .scrollbar__wrap {
+    border: 1px solid #0f8fff;
+    border-radius: .625rem
+}
+
+.modal-card .modal-card-body[data-v-acf037fc] .v-md-editor .v-md-editor__right-area .v-md-editor__toolbar {
+    border: 0;
+    display: none;
+    padding: 0
+}
+
+.modal-card .modal-card-body[data-v-acf037fc] .v-md-editor .v-md-editor__right-area .v-md-editor__main .v-md-textarea-editor textarea {
+    font-feature-settings: "pnum" on,"lnum" on;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    padding: .75rem 1rem
+}
+
+._polymorphic[data-v-acf037fc]:hover {
+    background: #f3f5f6;
+    cursor: pointer
+}
+
+._polymorphic[data-v-acf037fc]:active {
+    background: #edf0f2
+}

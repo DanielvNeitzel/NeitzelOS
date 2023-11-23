@@ -1,0 +1,17 @@
+.background {
+    animation: fade 10s ease-in infinite alternate;
+}
+
+@keyframes fade {
+    0% {
+        background-image: url('../img/01.jpg');
+    }
+
+    33% {
+        background-image: url('../img/02.jpg');
+    }
+
+    100% {
+        background-image: url('../img/03.jpg');
+    }
+}

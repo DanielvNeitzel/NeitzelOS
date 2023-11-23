@@ -1,0 +1,1261 @@
+@charset "UTF-8"; /*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-7e7fa090] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-7e7fa090] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-7e7fa090] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-7e7fa090] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-7e7fa090] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-7e7fa090] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-7e7fa090] {
+    color: #28c322
+}
+
+.has-text-red[data-v-7e7fa090] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-7e7fa090] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-7e7fa090] {
+    background-color: #29343d
+}
+
+.app-sidebar[data-v-7e7fa090] {
+    height: 100%;
+    left: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 15
+}
+
+.app-sidebar.no-event[data-v-7e7fa090] {
+    pointer-events: all
+}
+
+.app-sidebar.h-100[data-v-7e7fa090] {
+    height: 100%!important
+}
+
+.app-sidebar.w-100[data-v-7e7fa090] {
+    width: 100%!important
+}
+
+.app-sidebar .sidebar-content[data-v-7e7fa090] {
+    height: 100%;
+    position: relative
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-3d5f2c47] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-3d5f2c47] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-3d5f2c47] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-3d5f2c47] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-3d5f2c47] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-3d5f2c47] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-3d5f2c47] {
+    color: #28c322
+}
+
+.has-text-red[data-v-3d5f2c47] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-3d5f2c47] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-3d5f2c47] {
+    background-color: #29343d
+}
+
+#terminal[data-v-3d5f2c47] {
+    font-size: .75rem;
+    height: 100%;
+    min-height: 35rem;
+    width: 100%
+}
+
+#terminal .card .card-content[data-v-3d5f2c47] {
+    padding: 2.5rem;
+    width: 25rem
+}
+
+#terminal .card.card-shadow[data-v-3d5f2c47] {
+    border-radius: 8px;
+    box-shadow: 0 40px 80px hsla(217,5%,48%,.25)!important
+}
+
+.xterm[data-v-3d5f2c47] {
+    width: 100%
+}
+
+.xterm.fullheight[data-v-3d5f2c47] {
+    height: 100%
+}
+
+.xterm.sheight[data-v-3d5f2c47] {
+    height: 35rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-03d0dfff] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-03d0dfff] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-03d0dfff] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-03d0dfff] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-03d0dfff] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-03d0dfff] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-03d0dfff] {
+    color: #28c322
+}
+
+.has-text-red[data-v-03d0dfff] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-03d0dfff] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-03d0dfff] {
+    background-color: #29343d
+}
+
+.import-area .textarea[data-v-03d0dfff] {
+    max-height: 40em;
+    min-height: 173px
+}
+
+.control[data-v-03d0dfff] {
+    min-height: 7.25rem
+}
+
+.control .section[data-v-03d0dfff] {
+    padding: .84375rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-436df5fa] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-436df5fa] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-436df5fa] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-436df5fa] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-436df5fa] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-436df5fa] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-436df5fa] {
+    color: #28c322
+}
+
+.has-text-red[data-v-436df5fa] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-436df5fa] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-436df5fa] {
+    background-color: #29343d
+}
+
+.logs[data-v-436df5fa] {
+    color: #fff;
+    font-family: Monaco,Consolas,monospace!important;
+    font-size: 13px;
+    line-height: 1.5em;
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding: 0 .25rem;
+    white-space: pre-wrap
+}
+
+.logs>div[data-v-436df5fa] {
+    outline: none
+}
+
+.logs.fullheight[data-v-436df5fa] {
+    height: 100%
+}
+
+.logs.sheight[data-v-436df5fa] {
+    height: 35rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.pri-border {
+    border: .0625rem solid rgba(0,0,0,.102);
+    border-radius: .5rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.info {
+    color: #5a5a5a;
+    font-size: .875rem
+}
+
+.port-item {
+    position: relative
+}
+
+.port-item .icon {
+    bottom: .825rem;
+    position: absolute;
+    right: -1.25rem
+}
+
+.port-item:not(:last-child) {
+    margin-bottom: .5rem
+}
+
+.port-item .field.is-expanded .label {
+    font-weight: 400;
+    text-align: center
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-2e6e6f74] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-2e6e6f74] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-2e6e6f74] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-2e6e6f74] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-2e6e6f74] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-2e6e6f74] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-2e6e6f74] {
+    color: #28c322
+}
+
+.has-text-red[data-v-2e6e6f74] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-2e6e6f74] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-2e6e6f74] {
+    background-color: #29343d
+}
+
+.ficon[data-v-2e6e6f74] {
+    -webkit-touch-callout: none;
+    font-size: .875rem;
+    padding: .5rem .5rem .5rem .8rem;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none
+}
+
+.ficon .cover[data-v-2e6e6f74] {
+    height: 1.5rem;
+    margin-right: .5rem;
+    width: 1.5rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-609296c3] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-609296c3] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-609296c3] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-609296c3] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-609296c3] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-609296c3] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-609296c3] {
+    color: #28c322
+}
+
+.has-text-red[data-v-609296c3] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-609296c3] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-609296c3] {
+    background-color: #29343d
+}
+
+.file-sel-modal .breadcrumb[data-v-609296c3] {
+    margin-bottom: .5rem
+}
+
+.file-sel-modal .breadcrumb a[data-v-609296c3] {
+    color: #0e9aff
+}
+
+.file-sel-modal .breadcrumb ul[data-v-609296c3] {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    overflow: hidden
+}
+
+.file-sel-modal .breadcrumb ul li[data-v-609296c3] {
+    white-space: nowrap
+}
+
+.file-sel-modal .breadcrumb ul li div[data-v-609296c3] {
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0 .5em;
+    text-overflow: ellipsis;
+    white-space: nowrap
+}
+
+.file-sel-modal .breadcrumb ul li:first-child a[data-v-609296c3] {
+    padding-right: 0
+}
+
+.file-sel-modal .breadcrumb ul li:first-child a .icon[data-v-609296c3] {
+    margin-left: 0
+}
+
+.file-sel-modal .breadcrumb ul li[data-v-609296c3]:last-child {
+    min-width: 0;
+    width: 100%
+}
+
+.file-sel-modal .breadcrumb ul li[data-v-609296c3]:nth-child(2):before {
+    content: "|"
+}
+
+.file-sel-modal .modal-card[data-v-609296c3] {
+    width: 30rem
+}
+
+.file-sel-modal .file-list[data-v-609296c3] {
+    height: 19.6875rem;
+    overflow-x: hidden;
+    overflow-y: auto
+}
+
+.file-sel-modal .file-list li[data-v-609296c3] {
+    border-bottom: 1px solid #e4e4e4;
+    border-radius: 4px;
+    cursor: pointer;
+    line-height: 1.5em;
+    transition: background-color .2s
+}
+
+.file-sel-modal .file-list li[data-v-609296c3]:hover {
+    background-color: #e0e0e0
+}
+
+.file-sel-modal .file-list li.active[data-v-609296c3] {
+    background-color: #b6e0ff
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.app-card .modal-card-head.setting-compose-panel {
+    background-color: #edf0f2
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-48e0adb2] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-48e0adb2] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-48e0adb2] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-48e0adb2] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-48e0adb2] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-48e0adb2] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-48e0adb2] {
+    color: #28c322
+}
+
+.has-text-red[data-v-48e0adb2] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-48e0adb2] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-48e0adb2] {
+    background-color: #29343d
+}
+
+.b-tabs[data-v-48e0adb2] {
+    margin-bottom: 0
+}
+
+.b-tabs[data-v-48e0adb2] .tabs {
+    border-bottom: 1px solid #edf0f2;
+    padding: 0 1.5rem
+}
+
+.b-tabs[data-v-48e0adb2] .tabs ul {
+    border: 0
+}
+
+.b-tabs[data-v-48e0adb2] .tabs ul li {
+    font-size: .875rem
+}
+
+.b-tabs[data-v-48e0adb2] .tabs ul li a {
+    padding-bottom: 5px;
+    padding-top: .75rem
+}
+
+.b-tabs[data-v-48e0adb2] .tab-content {
+    height: calc(100% - 2.75rem);
+    overflow-x: hidden;
+    overflow-y: auto;
+    padding-left: 1.5rem;
+    padding-right: 2.25rem
+}
+
+.b-tabs[data-v-48e0adb2] .tab-content .container-icon {
+    height: 2.5rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.modal._zoom-screenshot .animation-content {
+    align-items: center;
+    display: flex
+}
+
+.modal._zoom-screenshot .modal-content {
+    overflow: unset;
+    width: auto
+}
+
+.modal._zoom-screenshot .modal-content img {
+    border: 3px solid #ccc;
+    border-radius: 1rem;
+    box-shadow: 0 0 40px 0 hsla(0,0%,100%,.2);
+    max-height: 90vh;
+    max-width: 90vw
+}
+
+.modal._zoom-screenshot .modal-close {
+    position: absolute
+}
+
+.modal._zoom-screenshot .modal-close:after,.modal._zoom-screenshot .modal-close:before {
+    background: #fff
+}
+
+.app-detial .modal-card-body .github-markdown-body {
+    line-height: 1.25rem;
+    padding: 1rem 0 0
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-414e148a] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-414e148a] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-414e148a] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-414e148a] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-414e148a] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-414e148a] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-414e148a] {
+    color: #28c322
+}
+
+.has-text-red[data-v-414e148a] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-414e148a] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-414e148a] {
+    background-color: #29343d
+}
+
+._button-icon[data-v-414e148a] {
+    border: 0
+}
+
+._button-icon[data-v-414e148a],._button-icon[data-v-414e148a]:focus {
+    background-color: transparent;
+    box-shadow: none
+}
+
+._sources_input[data-v-414e148a] .input {
+    height: 2rem!important
+}
+
+._sources_input[data-v-414e148a] span.icon {
+    height: 2rem!important;
+    width: 2rem!important
+}
+
+.management-change-enter-active[data-v-414e148a] {
+    transition: all .3s ease
+}
+
+.management-change-enter[data-v-414e148a] {
+    opacity: 0;
+    transform: translateX(-10px)
+}
+
+.management-change-leave-to[data-v-414e148a] {
+    opacity: 0
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80 {
+    opacity: .8
+}
+
+.has-text-grey-200 {
+    color: #edf0f2
+}
+
+.has-text-grey-400 {
+    color: #d3d9df
+}
+
+.has-text-grey-600 {
+    color: #8595a3
+}
+
+.has-text-grey-100 {
+    color: #f3f5f6
+}
+
+.has-text-gray-800 {
+    color: #29343d
+}
+
+.has-text-green-default {
+    color: #28c322
+}
+
+.has-text-red {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800 {
+    background-color: #29343d
+}
+
+.app-panel ._stepStoreList {
+    min-height: calc(100vh - 2.5rem)
+}
+
+.app-panel ._stepStoreList .modal-card-body {
+    overflow-x: clip;
+    overflow-y: scroll
+}
+
+.app-search {
+    max-width: 12.5rem;
+    width: 100%
+}
+
+.app-search .input {
+    height: 2rem!important
+}
+
+.app-item {
+    border-radius: .5rem;
+    transition: background .3s ease
+}
+
+.app-item:hover {
+    background-color: #f7f7f7
+}
+
+.level-item .icon {
+    overflow: initial
+}
+
+.install-animation {
+    height: 100px;
+    width: 100px
+}
+
+.creating-animation {
+    height: 16rem;
+    width: 16rem
+}
+
+.app-detial {
+    height: 100%;
+    overflow: auto
+}
+
+.app-detial .app-header {
+    position: relative
+}
+
+.app-detial .level .footing {
+    color: #7a7a7a
+}
+
+.app-detial .swiper-button-next,.app-detial .swiper-rtl .swiper-button-prev {
+    left: auto;
+    right: -20px
+}
+
+.app-detial .swiper-button-prev,.app-detial .swiper-rtl .swiper-button-next {
+    left: -20px;
+    right: auto
+}
+
+.featured-app .swiper-button-next,.featured-app .swiper-rtl .swiper-button-prev {
+    left: auto;
+    right: -20px;
+    top: calc(50% - 2.25rem)
+}
+
+.featured-app .swiper-button-prev,.featured-app .swiper-rtl .swiper-button-next {
+    left: -20px;
+    right: auto;
+    top: calc(50% - 2.25rem)
+}
+
+.featured-app .button {
+    box-sizing: border-box!important
+}
+
+.app-select .dropdown-menu {
+    min-width: 1rem!important
+}
+
+.app-select .dropdown-content {
+    border-radius: .5rem;
+    overflow-y: overlay!important
+}
+
+.app-select .dropdown-content::-webkit-scrollbar {
+    width: 8px
+}
+
+.app-select .dropdown-content::-webkit-scrollbar-track {
+    background: transparent
+}
+
+.app-select .dropdown-content::-webkit-scrollbar-thumb {
+    background: rgba(0,0,0,.2);
+    border-radius: 10px;
+    outline: none
+}
+
+.app-select a.dropdown-item {
+    font-size: .875rem;
+    padding-right: 1.5rem
+}
+
+@media screen and (min-width: 769px) {
+    .app-panel .animation-content {
+        max-width:90%!important
+    }
+
+    .app-panel .modal-card {
+        transition: all .3s;
+        width: 90vw
+    }
+
+    .app-panel .modal-card.narrow {
+        width: 50rem!important
+    }
+
+    .app-panel .modal-card ._pl {
+        margin-left: calc(90vw - 100%);
+        margin-right: 0
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .app-panel .modal-card {
+        width:81rem!important
+    }
+
+    .app-panel .modal-card ._pl {
+        margin-left: calc(81rem - 100%);
+        margin-right: 0
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .f-list .is-one-quarter {
+        width:33.333333%!important
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .f-list .is-one-quarter {
+        width:50%!important
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .modal-card {
+        border-radius:0;
+        max-height: calc(var(--vh, 1vh)*100)
+    }
+
+    .modal-card ._pl {
+        margin-left: calc(100vw - 100%);
+        margin-right: 0
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .app-detial {
+        height:100%;
+        overflow: auto
+    }
+
+    .app-detial .modal-card-head .button {
+        -webkit-tap-highlight-color: transparent
+    }
+
+    .app-detial .app-header {
+        position: relative
+    }
+
+    .app-detial .app-header .header-icon .is-128x128 {
+        height: 96px;
+        width: 96px
+    }
+
+    .app-detial .app-header .store-title {
+        font-size: 1.125rem
+    }
+
+    .app-detial .app-header .subtitle {
+        font-size: .75rem;
+        margin-bottom: .75rem
+    }
+
+    .app-detial .app-header .description .button {
+        font-size: .75rem
+    }
+
+    .app-detial .level .mdi-36px.mdi-set,.app-detial .level .mdi-36px.mdi:before,.app-detial .level .title {
+        font-size: 24px
+    }
+
+    .app-detial .level .footing {
+        font-size: .6rem!important
+    }
+
+    .f-list .is-one-quarter {
+        width: 100%!important
+    }
+}
+
+.pri-line-height {
+    line-height: 1.875rem
+}
+
+.pri-message-alert {
+    background: #fff6e5;
+    border-radius: .25rem;
+    color: #d99000;
+    font-size: .875rem;
+    font-style: normal;
+    height: 2rem;
+    margin-bottom: 1rem;
+    margin-top: .5rem
+}
+
+.is-overlay {
+    overflow: overlay
+}
+
+.card-width {
+    max-width: 35rem;
+    min-width: 30rem
+}
+
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80[data-v-eef2a900] {
+    opacity: .8
+}
+
+.has-text-grey-200[data-v-eef2a900] {
+    color: #edf0f2
+}
+
+.has-text-grey-400[data-v-eef2a900] {
+    color: #d3d9df
+}
+
+.has-text-grey-600[data-v-eef2a900] {
+    color: #8595a3
+}
+
+.has-text-grey-100[data-v-eef2a900] {
+    color: #f3f5f6
+}
+
+.has-text-gray-800[data-v-eef2a900] {
+    color: #29343d
+}
+
+.has-text-green-default[data-v-eef2a900] {
+    color: #28c322
+}
+
+.has-text-red[data-v-eef2a900] {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary[data-v-eef2a900] {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800[data-v-eef2a900] {
+    background-color: #29343d
+}
+
+.close[data-v-eef2a900] {
+    border-radius: .375rem;
+    height: 2rem;
+    width: 2rem
+}
+
+.button[disabled][data-v-eef2a900] {
+    opactiy: .3
+}
+
+._title[data-v-eef2a900] {
+    font-feature-settings: "pnum" on,"lnum" on;
+    color: #29343d;
+    font-family: Roboto;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5rem
+}
+
+._hideOverflow[data-v-eef2a900] {
+    overflow: unset
+}
+
+._b-line[data-v-eef2a900] {
+    border-bottom: 1px solid #edf0f2!important
+}
+
+.progress[data-v-eef2a900] {
+    border-radius: 6px;
+    height: 12px
+}
+
+.progress[data-v-eef2a900]::-webkit-progress-bar {
+    background: rgba(172,184,195,.4)
+}
+
+.progress[data-v-eef2a900]::-webkit-progress-value {
+    opacity: 1
+}
+
+._polymorphic[data-v-eef2a900]:hover {
+    background: #f3f5f6;
+    cursor: pointer
+}
+
+._polymorphic[data-v-eef2a900]:active {
+    background: #edf0f2
+}
+
+._polymorphic-attention[data-v-eef2a900]:hover {
+    background: #ffeae1;
+    cursor: pointer
+}
+
+._polymorphic-attention[data-v-eef2a900]:active {
+    background: #ffb899
+}
+
+._dropdown[data-v-eef2a900] {
+    border-radius: .25rem;
+    height: 2rem
+}
+
+._dropdown ._dropdown__typeIcon[data-v-eef2a900] {
+    height: 18px;
+    margin-left: .625rem;
+    width: 18px
+}
+
+._dropdown ._dropdown__stateIcon[data-v-eef2a900] {
+    height: 16px;
+    margin-right: .625rem;
+    width: 16px
+}
+
+._dropdown ._dropdown__item[data-v-eef2a900] {
+    margin-bottom: 2px;
+    margin-right: 6px;
+    width: 112px
+}
+
+.search-fade-enter-active[data-v-eef2a900],.slide-fade-enter-active[data-v-eef2a900] {
+    transition: all .3s ease-out
+}
+
+.slide-fade-leave-active[data-v-eef2a900],search-fade-leave-active[data-v-eef2a900] {
+    transition: opacity 0s
+}
+
+.search-fade-enter-from[data-v-eef2a900] {
+    opacity: 0;
+    transform: translateY(-20px)
+}
+
+.slide-fade-enter-from[data-v-eef2a900] {
+    opacity: 0;
+    transform: translateX(20px)
+}

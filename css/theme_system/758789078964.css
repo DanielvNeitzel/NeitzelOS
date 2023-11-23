@@ -1,0 +1,134 @@
+@charset "UTF-8"; /*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/1/9 下午10:15
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/_variables.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+/*!
+ *  @LastEditors: zhanghengxin ezreal.zhang@icewhale.org
+ *  @LastEditTime: 2023/2/1 上午10:43
+ *  @FilePath: /CasaOS-UI/src/assets/scss/common/color.scss
+ *  @Description:
+ *
+ *  Copyright (c) 2022 by IceWhale, All Rights Reserved.
+ */
+.op80 {
+    opacity: .8
+}
+
+.has-text-grey-200 {
+    color: #edf0f2
+}
+
+.has-text-grey-400 {
+    color: #d3d9df
+}
+
+.has-text-grey-600 {
+    color: #8595a3
+}
+
+.has-text-grey-100 {
+    color: #f3f5f6
+}
+
+.has-text-gray-800 {
+    color: #29343d
+}
+
+.has-text-green-default {
+    color: #28c322
+}
+
+.has-text-red {
+    color: #fd5f1c!important
+}
+
+.has-background-red-tertiary {
+    background-color: #ffeae1
+}
+
+.has-background-gray-800 {
+    background-color: #29343d
+}
+
+#login-page {
+    height: calc(100% - 5.5rem);
+    position: relative;
+    z-index: 500
+}
+
+#login-page .login-panel {
+    -webkit-backdrop-filter: blur(1rem);
+    backdrop-filter: blur(1rem);
+    background: hsla(0,0%,100%,.46);
+    border-radius: 8px;
+    padding: 2.5rem 4rem;
+    text-align: left
+}
+
+#login-page .login-panel .label {
+    color: #dfdfdf
+}
+
+#login-page .login-panel .input {
+    background: hsla(0,0%,100%,.32);
+    border-color: transparent
+}
+
+#login-page .login-panel.step1 {
+    padding: 4rem 6rem
+}
+
+#login-page .login-panel.step2 {
+    padding: 2.5rem 4rem;
+    width: 32rem
+}
+
+#login-page .login-panel.step3 {
+    padding: 4rem 8rem
+}
+
+#login-page .login-panel.step4 {
+    width: 28rem
+}
+
+@media screen and (max-width: 480px) {
+    .login-panel {
+        -webkit-backdrop-filter:blur(1rem);
+        backdrop-filter: blur(1rem);
+        background: hsla(0,0%,100%,.46);
+        border-radius: 8px;
+        margin: 0 2rem;
+        padding: 2rem!important;
+        text-align: left
+    }
+
+    .login-panel .label {
+        color: #dfdfdf
+    }
+
+    .login-panel .input {
+        background: hsla(0,0%,100%,.32);
+        border-color: transparent
+    }
+
+    .login-panel .is-128x128 {
+        height: 96px;
+        width: 96px
+    }
+
+    .login-panel .is-3,.login-panel.step1 .is-2 {
+        font-size: 1.5rem
+    }
+
+    .login-panel.step1 .subtitle {
+        font-size: 1rem
+    }
+
+    .login-panel.step3 {
+        padding: 4rem!important
+    }
+}
